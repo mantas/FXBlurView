@@ -13,7 +13,7 @@
   "homepage": "http://github.com/nicklockwood/FXBlurView",
   "platforms": {
     "ios": "4.3",
-    "tvos": "9.0",
+    "tvos": "9.0"
   },
   "source_files": "FXBlurView",
   "frameworks": [
